@@ -1,0 +1,27 @@
+{
+  "median_price": 1058.5,
+  "n_train": 3984,
+  "n_test": 996,
+  "features": [
+    "bathrooms",
+    "bedrooms",
+    "square_feet",
+    "latitude",
+    "longitude",
+    "has_photo",
+    "pets_allowed",
+    "n_amenities",
+    "state_freq",
+    "city_freq",
+    "amn_parking",
+    "amn_pool",
+    "amn_gym",
+    "amn_washer_dryer",
+    "amn_dishwasher",
+    "amn_patio_deck",
+    "amn_fireplace",
+    "amn_elevator",
+    "amn_clubhouse",
+    "amn_cable_or_satellite"
+  ]
+}
